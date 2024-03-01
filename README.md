@@ -1,9 +1,9 @@
 # digitalocean-diagrams
 
 This repository hosts a collection of architectural diagrams that I have created in my role as a Solutions Engineer at DigitalOcean. These diagrams have served — and continue to serve — multiple purposes:
-- To facilitate my learning of DigitalOcean's services when I joined the company.
 - To visually explain the workings of DigitalOcean services to the customers I assist.
 - To provide a resource for my peers, who may find these diagrams useful in their own work.
+- To facilitate my learning of DigitalOcean's services when I joined the company.
 
 The architectural diagram presented on this page offers a high-level overview of DigitalOcean's services. For more detailed diagrams of specific services, please visit the subsequent pages.
 
