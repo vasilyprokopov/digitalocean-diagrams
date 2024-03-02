@@ -15,3 +15,9 @@ If you wish to learn more about DigitalOcean's services, feel free to contact me
 
 ## DigitalOcean Services Overview
 ![DigitalOcean Services Overview](https://lucid.app/publicSegments/view/51b93be1-e8ef-4559-bc66-33ff48ad1f99/image.png)
+
+DigitalOcean offers four deployment options for applications:
+1. **Droplets (Virtual Machines):** Customers fully manage both the operating system and the application.
+2. **Managed Kubernetes:** Customers share cluster management responsibilities with DigitalOcean but maintain full control over their applications.
+3. **App Platform:** Customers supply the application code or container image, which is then deployed in a container environment fully managed by DigitalOcean.
+4. **Functions:** Customers provide the function code, and DigitalOcean handles the entire runtime environment, including scaling.
