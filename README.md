@@ -19,5 +19,5 @@ If you wish to learn more about DigitalOcean's services, feel free to contact me
 DigitalOcean offers four deployment options for applications:
 1. **Droplets (Virtual Machines):** Customers fully manage both the operating system and the application.
 2. **Managed Kubernetes:** Customers share cluster management responsibilities with DigitalOcean and fully control the applications.
-3. **App Platform:** Customers supply the application code or container image, which is then deployed in a container environment managed by DigitalOcean.
+3. **App Platform:** Customers supply the application code, which is then built and deployed in a container environment managed by DigitalOcean.
 4. **Functions:** Customers provide the function code, and DigitalOcean handles the entire runtime environment, including scaling.
