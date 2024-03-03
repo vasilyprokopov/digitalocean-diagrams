@@ -8,7 +8,7 @@ This repository hosts a collection of architectural diagrams that I have created
 I believe that visual representation simplifies learning and helps reinforce understanding. Therefore, I am sharing these diagrams publicly for anyone seeking to understand how DigitalOcean services function.
 
 The architectural diagram presented on this page offers a high-level overview of DigitalOcean's services. For more detailed diagrams of specific services, please visit the subsequent pages.
-1. [Droplet](1%20droplet/readme.md)
+1. [Droplets](1%20droplets/readme.md)
 2. [Managed Kubernetes](2%20kubernetes/readme.md)
 
 If you wish to learn more about DigitalOcean's services, feel free to contact me at [vprokopov@digitalocean.com](mailto:vprokopov@digitalocean.com). Should I no longer be employed at DigitalOcean, you are welcome to reach out to the sales team at [sales@digitalocean.com](mailto:sales@digitalocean.com). A global team of talented engineers will be happy to provide assistance.
