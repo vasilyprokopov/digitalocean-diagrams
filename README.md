@@ -11,6 +11,7 @@ The architectural diagram presented on this page offers a high-level overview of
 1. [Droplets](1%20droplets/readme.md)
 2. [Managed Kubernetes](2%20kubernetes/readme.md)
 3. [App Platform](3%20app%20platform/readme.md)
+5. [Managed Databases](5%20dbaas/readme.md) 
 
 If you wish to learn more about DigitalOcean's services, feel free to contact me at [vprokopov@digitalocean.com](mailto:vprokopov@digitalocean.com). Should I no longer be employed at DigitalOcean, you are welcome to reach out to the sales team at [sales@digitalocean.com](mailto:sales@digitalocean.com). A global team of talented engineers will be happy to provide assistance.
 
