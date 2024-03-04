@@ -6,4 +6,5 @@ Quick facts:
 - You can add a firewall to the Managed Load Balancer via API to deny or allow specific IP addresses or ranges.
 - The Managed Load Balancer always exposes a public IP address, making it exclusively an external load balancer.
 - Droplets can be dynamically attached to or detached from the Managed Load Balancer using tags.
+- You can only have a single TLS certificate per rule and port.
 
