@@ -1,4 +1,4 @@
-# digitalocean-diagrams
+# DigitalOcean Reference Architecture Diagrams
 
 This repository hosts a collection of architectural diagrams that I have created in my role as a Solutions Engineer at DigitalOcean. These diagrams have served — and continue to serve — multiple purposes:
 - To visually explain the workings of DigitalOcean services to the customers I assist.
