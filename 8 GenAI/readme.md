@@ -1,2 +1,2 @@
 [back](../README.md)
-![DigitalOcean GenAI](https://lucid.app/publicSegments/view/ae1d8893-b9f3-4d9a-a331-64b00e90d4d0/image.png)
+![DigitalOcean GenAI](https://lucid.app/publicSegments/view/77b4de67-0804-4b4e-97ac-5d7544f3f962/image.png)
