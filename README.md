@@ -14,6 +14,7 @@ The architectural diagram presented on this page offers a high-level overview of
 5. [Managed Databases](5%20dbaas/readme.md)
 6. [Managed Load Balancers](6%20lbaas/readme.md)
 7. [API](7%20api/readme.md)
+8. [GenAI](8%20genai/readme.md)
 
 **Disclaimer:** These diagrams have not been reviewed by the DigitalOcean product teams for accuracy and may contain errors. They represent my understanding of the services based on research and experience. For official documentation, please refer to [docs.digitalocean.com](https://docs.digitalocean.com).
 
