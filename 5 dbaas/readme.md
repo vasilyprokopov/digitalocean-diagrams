@@ -1,5 +1,5 @@
 [back](../README.md)
-![DigitalOcean Managed Databases](https://lucid.app/publicSegments/view/ac2f4f9d-69f8-4a53-bee3-e49cbab41223/image.png)
+![DigitalOcean Managed Databases](https://lucid.app/publicSegments/view/25e1a1ee-7de7-44fe-955e-a01594632143/image.png)
 
 Quick facts:
 - You can enable log forwarding for managed databases.
