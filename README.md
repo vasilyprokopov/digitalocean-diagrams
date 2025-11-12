@@ -1,7 +1,7 @@
 # DigitalOcean Reference Architecture Diagrams
 
-This repository hosts a collection of architectural diagrams that I have created in my role as a Solutions Architect at DigitalOcean. These diagrams have served — and continue to serve — multiple purposes:
-- To visually explain the workings of DigitalOcean services to the customers I assist.
+This repository hosts a collection of architectural diagrams that I have created in my role as a Solutions Architect at DigitalOcean. These diagrams have served (and continue to serve) multiple purposes:
+- To visually explain the workings of DigitalOcean services to the customers.
 - To provide a resource for my peers, who may find these diagrams useful in their own work.
 - To facilitate my learning of DigitalOcean's services when I joined the company.
 
@@ -21,7 +21,7 @@ The architectural diagram presented on this page offers a high-level overview of
 ![DigitalOcean Services Overview](https://lucid.app/publicSegments/view/51b93be1-e8ef-4559-bc66-33ff48ad1f99/image.png)
 
 DigitalOcean offers four deployment options for applications:
-1. **Droplets.** Customers fully manage both the operating system and the application.
+1. **Droplets, GPU Droplets, and Bare Metal** Customers fully manage both the operating system and the application.
 2. **Managed Kubernetes.** Customers share cluster management responsibilities with DigitalOcean and fully control the applications.
 3. **App Platform.** Customers supply the application code or container image for a container environment managed by DigitalOcean.
 4. **Functions.** Customers provide function code, and DigitalOcean handles the entire serverless environment, including scaling.
