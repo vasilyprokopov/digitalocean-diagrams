@@ -21,7 +21,7 @@ The architectural diagram presented on this page offers a high-level overview of
 ![DigitalOcean Services Overview](https://lucid.app/publicSegments/view/51b93be1-e8ef-4559-bc66-33ff48ad1f99/image.png)
 
 DigitalOcean offers four deployment options for applications:
-1. **Droplets, GPU Droplets, and Bare Metal** Customers fully manage both the operating system and the application.
+1. **Droplets, GPU Droplets** Customers fully manage both the operating system and the application.
 2. **Managed Kubernetes.** Customers share cluster management responsibilities with DigitalOcean and fully control the applications.
 3. **App Platform.** Customers supply the application code or container image for a container environment managed by DigitalOcean.
 4. **Functions.** Customers provide function code, and DigitalOcean handles the entire serverless environment, including scaling.
