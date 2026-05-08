@@ -1,4 +1,4 @@
-[back](../README.md)
+[back](../../README.md)
 ![DigitalOcean Managed Databases](https://lucid.app/publicSegments/view/25e1a1ee-7de7-44fe-955e-a01594632143/image.png)
 
 Quick facts:

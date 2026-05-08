@@ -8,13 +8,16 @@ This repository hosts a collection of architectural diagrams that I have created
 I believe that visual representation simplifies learning and helps reinforce understanding. Therefore, I am sharing these diagrams publicly for anyone seeking to understand how DigitalOcean services function.
 
 The architectural diagram presented on this page offers a high-level overview of DigitalOcean's services. For more detailed diagrams of specific services, please visit the subsequent pages.
-1. [Droplets](1%20droplets/readme.md)
-2. [Managed Kubernetes](2%20kubernetes/readme.md)
-3. [App Platform](3%20app%20platform/readme.md)
-5. [Managed Databases](5%20dbaas/readme.md)
-6. [Managed Load Balancers](6%20lbaas/readme.md)
-7. [API](7%20api/readme.md)
-8. [GenAI](8%20GenAI/readme.md)
+
+1. **DigitalOcean Core**
+   1. [Droplets](1%20core/1%20droplets/readme.md)
+   2. [Managed Kubernetes](1%20core/2%20kubernetes/readme.md)
+   3. [App Platform](1%20core/3%20app%20platform/readme.md)
+   4. [Managed Databases](1%20core/4%20dbaas/readme.md)
+   5. [Managed Load Balancers](1%20core/5%20lbaas/readme.md)
+   6. [API](1%20core/6%20api/readme.md)
+2. **DigitalOcean AI**
+   1. [Agents](2%20ai/1%20agents/readme.md)
 
 **Disclaimer:** These diagrams have not been reviewed by the DigitalOcean product teams for accuracy and may contain errors. They represent my understanding of the services based on research and experience. For official documentation, please refer to [docs.digitalocean.com](https://docs.digitalocean.com).
 
